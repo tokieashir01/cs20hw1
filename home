@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Toki Eashir - Assignment 1</title>
+</head>
+
+<body style="padding-left: 15px;">
+<h1 style="font-size: 50px;">
+    Toki E
+</h1>
+<h2>Combined Degree: BFA & CS</h2>
+<p>IP address: 130.64.64.34</p>
+<p>Grew up in Dhaka, Bangladesh</p>
+
+<!-- An Image and something about the location -->
+<div>
+<img src='image1.JPG' ALIGN="left" style="height: 300px;"> 
+&nbsp;The French Reviera is one of my favourite places on Earth.
+<br> &nbsp;This Picture in particular is from Marseille, France. 
+<br> &nbsp;I feel as if I am drawn towards bodies of water. 
+It makes me feel at peace.
+</img>
+</div>
+
+<!-- Favourite Restaurant and a fact -->
+<div style="margin-top: 270px;">
+<p>My favourite Restaurant: 
+    <a href="https://angelindianny.com/" target="_blank">
+        Angel Restaurant Queens
+    </a>
+</p>
+<p> Something you might not expect: I can be the spotlight on the
+    dance floor if you turn the lights off and there is techno.
+</p>
+</div>
+
+
+</body>
+</html>
